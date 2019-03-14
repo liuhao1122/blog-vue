@@ -1,3 +1,5 @@
+Should I edit file in here to change the index page for project?
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/liuhao1122/blog-vue/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
